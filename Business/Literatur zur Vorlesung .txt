@@ -1,0 +1,9 @@
+TOGAF® Version 9.1, Enterprise Edition, Open Group Standard (G116), December 2011, published by The Open Group; 
+available at www.opengroup.org/bookstore/catalog/g116.htm.
+
+ArchiMate® 2.1 Specification, Open Group Standard (C13L), December 2013, published by The Open Group; 
+available at www.opengroup.org/bookstore/catalog/c13l.htm.
+
+Karen Martin, Mike Osterling: Value Stream Mapping, McGraw Hill, 2014, ISBN: 978-0-07-182891-8
+
+Ulrich Homann: A Business-Oriented Foundation for Service Orientation, White Paper, February 2006.
