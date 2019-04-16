@@ -1,0 +1,6 @@
+[submodule "sge/organisation"]
+	path = sge/organisation
+	url = git@github.com:mif-sge/organisation.git
+[submodule "IoT"]
+	path = IoT
+	url = git@github.com:ZielMartin/IoT.git
